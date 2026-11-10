@@ -1,0 +1,7 @@
+/home/zeverlanotebook/Repositories/Kalimba/codes/fixed_main/build/_deps/picotool/picotool
+/home/zeverlanotebook/Repositories/Kalimba/codes/fixed_main/build/_deps/picotool/picotoolTargets.cmake
+/home/zeverlanotebook/Repositories/Kalimba/codes/fixed_main/build/_deps/picotool/picotoolTargets-release.cmake
+/home/zeverlanotebook/Repositories/Kalimba/codes/fixed_main/build/_deps/picotool/picotoolConfig.cmake
+/home/zeverlanotebook/Repositories/Kalimba/codes/fixed_main/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/zeverlanotebook/Repositories/Kalimba/codes/fixed_main/build/_deps/picotool/enc_bootloader.elf
+/home/zeverlanotebook/Repositories/Kalimba/codes/fixed_main/build/_deps/picotool/enc_bootloader_mbedtls.elf

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zeverlanotebook/Repositories/Kalimba/codes/\u0442\u0435\u0441\u0442_\u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0430/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate"
+		},
+		{
+			"file" : "/home/zeverlanotebook/Repositories/Kalimba/codes/\u0442\u0435\u0441\u0442_\u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0430/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.rule"
+		},
+		{
+			"file" : "/home/zeverlanotebook/Repositories/Kalimba/codes/\u0442\u0435\u0441\u0442_\u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0430/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete.rule"
+		},
+		{
+			"file" : "/home/zeverlanotebook/Repositories/Kalimba/codes/\u0442\u0435\u0441\u0442_\u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0430/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build.rule"
+		},
+		{
+			"file" : "/home/zeverlanotebook/Repositories/Kalimba/codes/\u0442\u0435\u0441\u0442_\u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0430/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure.rule"
+		},
+		{
+			"file" : "/home/zeverlanotebook/Repositories/Kalimba/codes/\u0442\u0435\u0441\u0442_\u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0430/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download.rule"
+		},
+		{
+			"file" : "/home/zeverlanotebook/Repositories/Kalimba/codes/\u0442\u0435\u0441\u0442_\u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0430/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install.rule"
+		},
+		{
+			"file" : "/home/zeverlanotebook/Repositories/Kalimba/codes/\u0442\u0435\u0441\u0442_\u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0430/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/zeverlanotebook/Repositories/Kalimba/codes/\u0442\u0435\u0441\u0442_\u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0430/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch.rule"
+		},
+		{
+			"file" : "/home/zeverlanotebook/Repositories/Kalimba/codes/\u0442\u0435\u0441\u0442_\u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0430/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test.rule"
+		},
+		{
+			"file" : "/home/zeverlanotebook/Repositories/Kalimba/codes/\u0442\u0435\u0441\u0442_\u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0430/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotool-populate"
+		],
+		"name" : "picotool-populate"
+	}
+}

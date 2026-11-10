@@ -1,0 +1,21 @@
+# ninja log v5
+2	24	1794311542912193130	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir	432176769663ac56
+2	24	1794311542912193130	/home/zeverlanotebook/Repositories/Kalimba/codes/прошивка/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir	432176769663ac56
+24	4009	1794311546893502585	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download	2a4efd06b65843fa
+24	4009	1794311546893502585	/home/zeverlanotebook/Repositories/Kalimba/codes/прошивка/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download	2a4efd06b65843fa
+4009	4083	0	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update	e8f50b551a4605c5
+4009	4083	0	/home/zeverlanotebook/Repositories/Kalimba/codes/прошивка/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update	e8f50b551a4605c5
+4087	4148	1794311547032478440	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch	ec09f053185550bf
+4087	4148	1794311547032478440	/home/zeverlanotebook/Repositories/Kalimba/codes/прошивка/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch	ec09f053185550bf
+4148	4207	1794311547092468011	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure	54770f29b42ff068
+4148	4207	1794311547092468011	/home/zeverlanotebook/Repositories/Kalimba/codes/прошивка/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure	54770f29b42ff068
+4207	4259	1794311547145458799	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build	18c0436fbf75b5b6
+4207	4259	1794311547145458799	/home/zeverlanotebook/Repositories/Kalimba/codes/прошивка/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build	18c0436fbf75b5b6
+4259	4307	1794311547191450803	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install	5104e5601556625d
+4259	4307	1794311547191450803	/home/zeverlanotebook/Repositories/Kalimba/codes/прошивка/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install	5104e5601556625d
+4307	4370	1794311547251440374	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test	6adbb14c0c1ad7a5
+4307	4370	1794311547251440374	/home/zeverlanotebook/Repositories/Kalimba/codes/прошивка/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test	6adbb14c0c1ad7a5
+4370	4494	1794311547379418125	CMakeFiles/picotool-populate-complete	90ebab096d82c1b6
+4370	4494	1794311547379418125	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-done	90ebab096d82c1b6
+4370	4494	1794311547379418125	/home/zeverlanotebook/Repositories/Kalimba/codes/прошивка/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete	90ebab096d82c1b6
+4370	4494	1794311547379418125	/home/zeverlanotebook/Repositories/Kalimba/codes/прошивка/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-done	90ebab096d82c1b6
